@@ -1,0 +1,25 @@
+.menud{
+    padding: 5px;
+    margin: 10px;
+    list-style: none;
+    border-radius: 3px;
+    box-shadow: 0 0 2px gray;
+}
+.menud a{
+    background: url('Hình/Bullet1.gif')no-repeat 10px center;
+    display: block;
+    border-bottom: 1px dotted orangered;
+    color: orangered;
+    font-variant: small-caps;
+    font-size: larger;
+    text-decoration: none;
+    padding: 8px 5px 8px 30px;
+    padding-left: 60px;
+}
+.menud a:hover{
+    background: url('Hình/ngontay.jfif')no-repeat 10px center;
+    border-bottom: 1px dotted white;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
