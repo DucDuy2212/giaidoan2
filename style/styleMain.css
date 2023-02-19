@@ -2,7 +2,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    max-width: 1500px;
+    max-width: 100%;
 }
 .container{
     margin: 0 auto;
@@ -13,7 +13,7 @@ body{
 }
 .container>header{
     padding: 0px;
-    max-width: 1500px;
+    max-width: 100%;
     height: 50px;
     position: relative;
 }
@@ -91,7 +91,7 @@ body{
 section{
     width: 1300px;
     height: 400px;
-    margin: 0px 7.7%;
+    margin: 0px 9%;
 }
 .giayd{
     background-color: white;
@@ -220,4 +220,7 @@ strong{
 a{
     text-decoration: none;
     color: black;
+}
+.nhungvideo{
+    text-align: center;
 }
